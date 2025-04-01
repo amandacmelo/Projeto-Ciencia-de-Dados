@@ -13,7 +13,7 @@
 
   Melissa Alanis Santos Oliveira - 5384
 
-# Divisão de tarefas:
+# -> Divisão de tarefas:
   Para a elaboração das perguntas e preparação dos dados, a equipe se reuniu em horários extraclasse e durante as aulas práticas. Dessa forma, as tarefas da primeira etapa foram divididas da seguinte maneira:
   
   1) Caio: Elaboração de três perguntas relacionadas à agropecuaria e análises dos dados em busca de ruidos/outliers.
