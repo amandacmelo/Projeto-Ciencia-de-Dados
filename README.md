@@ -22,7 +22,7 @@
 
   3) De que maneira a produção e exportação de tais insumos primários impacta na qualidade de vida da população dos municípios descritos no dataset?
 
-  4) Estados com maior volume de atividades agropecuárias tendem a ter piores índices de perda e qualidade da água? (usar o dataset do Diagnóstico dos Serviços de Água e Esgotos do Ministério das Cidades)
+  4) Estados com maior volume de atividades agropecuárias tendem a ter piores índices de perda e qualidade da água? (Usar o dataset do Diagnóstico dos Serviços de Água e Esgotos do Ministério das Cidades)
   
   5) Como a pandemia de COVID-19 afetou a relação entre a produção agrícola e pecuária?
 
