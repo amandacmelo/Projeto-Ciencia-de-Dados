@@ -24,6 +24,15 @@
 
   4) Amanda: Elaboração de duas perguntas relacionadas à transferências aos municípios e suas relações, além de exportações e analise e tratamento dos dados referentes receita, exportação e importação.
 
+# -> Preparação dos Dados: 
+  Após a definição da temática principal que abordaremos em nosso projeto, realizamos a preparação dos dados, buscando entender os atributos dos objetos, a tipagem dos atributos, além de identificar e tratar possíveis ruídos ou ausência de informações. Por fim, realizamos a limpeza dos dados que consideramos desnecessários para nossas futuras análises.
+  Desse modo, para o tratamento de dados realizamos:
+    1) Ajuste nos tipos de atributos e valores de ponto flutuante: realizamos a transformação dos atributos para seus tipos corretos, uma vez que a grande maioria estava definida como 'object' no conjunto de dados analisado.
+    2) Tratamento dos dados referentes receita, exportação e importação: retirada dos objetos com valores vazios.
+    3) Transformação de todos os valores 'nan' em 0.
+    4) Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
+    5) Análises dos dados em busca de ruidos/outliers.
+
 # -> Perguntas:
   As perguntas formuladas e discutidas pela equipe são as seguintes, contemplando os seguintes eixos:
   # Produção pecuária e agricola:
