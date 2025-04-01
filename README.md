@@ -23,8 +23,8 @@
   3) De que maneira a produção e exportação de tais insumos primários impacta na qualidade de vida da população dos municípios descritos no dataset?
 
   4) Estados com maior volume de atividades agropecuárias tendem a ter piores índices de perda e qualidade da água? (usar o dataset do Diagnóstico dos Serviços de Água e Esgotos do Ministério das Cidades)
-
-  5)Como a pandemia de COVID-19 afetou a relação entre a produção agrícola e pecuária?
+  
+  5) Como a pandemia de COVID-19 afetou a relação entre a produção agrícola e pecuária?
 
 # Economia e empregabilidade:
 
@@ -38,4 +38,4 @@
 
   9) Existe uma relação entre o PIB municipal e a receita tributária, com uma menor dependência de transferências e um maior índice de autonomia financeira nos municípios? (Utilizar dados do Siconfi para análise)
   
-  10)Como funciona o processo de exportação no Brasil? O que é exportado dentro dos limites federais e o que é destinado a outros países? Quais setores dominam as exportações brasileiras e como eles se relacionam com a produção agrícola e pecuária? (Utilizar dados externos, possivelmente de COMEX STAT - MDIC)
+  10) Como funciona o processo de exportação no Brasil? O que é exportado dentro dos limites federais e o que é destinado a outros países? Quais setores dominam as exportações brasileiras e como eles se relacionam com a produção agrícola e pecuária? (Utilizar dados externos, possivelmente de COMEX STAT - MDIC)
