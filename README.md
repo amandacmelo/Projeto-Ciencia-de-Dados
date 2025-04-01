@@ -34,7 +34,9 @@
   3)  Transformação de todos os valores 'nan' em 0.
   4)  Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
   5)  Análises dos dados em busca de ruidos/outliers.
-
+     
+  A visualização dos tratamentos realizados pode ser acessada pelo link: https://colab.research.google.com/drive/1ztOUOMFKtLA2Oix2uHLVwv6P7I3TrAyu?usp=sharing
+  
 # -> Perguntas:
   As perguntas formuladas e discutidas pela equipe são as seguintes, contemplando os seguintes eixos:
   # Produção pecuária e agricola:
