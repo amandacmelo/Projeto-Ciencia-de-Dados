@@ -13,7 +13,19 @@
 
   Melissa Alanis Santos Oliveira - 5384
 
+# Divisão de tarefas:
+  Para a elaboração das perguntas e preparação dos dados, a equipe se reuniu em horários extraclasse e durante as aulas práticas. Dessa forma, as tarefas da primeira etapa foram divididas da seguinte maneira:
+  
+  1) Caio: Elaboração de três perguntas relacionadas à agropecuaria e análises dos dados em busca de ruidos/outliers.
+
+  2) Leticia: Elaboração de duas perguntas relacionadas à agropecuaria, ajuste nos tipos de atributos e valores de ponto flutuante.
+
+  3) Melissa: Elaboração de três perguntas relacionadas à economia e empregabilidade e criação de novos atributos, com objetivo de auxiliar em análises futuras.
+
+  4) Amanda: Elaboração de duas perguntas relacionadas à transferências aos municípios e suas relações, além de exportações e analise e tratamento dos dados referentes receita, exportação e importação.
+
 # -> Perguntas:
+  As perguntas formuladas e discutidas pela equipe são as seguintes, contemplando os seguintes eixos:
   # Produção pecuária e agricola:
 
    1) Como a pandemia da COVID-19 afetou as cidades em que grande parte da renda era em torno do turismo?
