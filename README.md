@@ -29,11 +29,11 @@
   
   Desse modo, para o tratamento de dados realizamos:
   
-  1) Ajuste nos tipos de atributos e valores de ponto flutuante: realizamos a transformação dos atributos para seus tipos corretos, uma vez que a grande maioria estava definida como 'object' no conjunto de dados analisado.
-  2) Tratamento dos dados referentes receita, exportação e importação: retirada dos objetos com valores vazios.
-  3) Transformação de todos os valores 'nan' em 0.
-  4) Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
-  5) Análises dos dados em busca de ruidos/outliers.
+  1)  Ajuste nos tipos de atributos e valores de ponto flutuante: realizamos a transformação dos atributos para seus tipos corretos, uma vez que a grande maioria estava definida como 'object' no conjunto de dados analisado.
+  2)  Tratamento dos dados referentes receita, exportação e importação: retirada dos objetos com valores vazios.
+  3)  Transformação de todos os valores 'nan' em 0.
+  4)  Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
+  5)  Análises dos dados em busca de ruidos/outliers.
 
 # -> Perguntas:
   As perguntas formuladas e discutidas pela equipe são as seguintes, contemplando os seguintes eixos:
