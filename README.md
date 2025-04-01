@@ -37,5 +37,5 @@
 # Dependência financeira dos municípios, relação das transferências e exportações:
 
   9) Existe uma relação entre o PIB municipal e a receita tributária, com uma menor dependência de transferências e um maior índice de autonomia financeira nos municípios? (Utilizar dados do Siconfi para análise)
-
+  
   10)Como funciona o processo de exportação no Brasil? O que é exportado dentro dos limites federais e o que é destinado a outros países? Quais setores dominam as exportações brasileiras e como eles se relacionam com a produção agrícola e pecuária? (Utilizar dados externos, possivelmente de COMEX STAT - MDIC)
