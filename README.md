@@ -66,5 +66,10 @@
   10) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
 
 # -> Análise Exploratória dos Dados: 
-  Após a preparação dos dados, nesta etapa foram geradas estatísticas descritivas, gráficos e tabelas a fim de conhecer os dados. Cada integrante, responsável pela formulação das perguntas em sua respectiva área, trabalhou com os dados e análises correspondentes às perguntas que elaborou. Desse modo, os notebooks estão separados de acordo com as áreas trabalhadas, sendo elas: produção pecuária e agrícola, economia e empregabilidade, e dependência financeira dos municípios, relação das transferências e exportações. Os arquivos estão disponíveis na pasta X ou podem ser acessados individualmente nos seguintes documentos:
+  Após a preparação dos dados, nesta etapa foram geradas estatísticas descritivas, gráficos e tabelas a fim de conhecer os dados. Cada integrante, responsável pela formulação das perguntas em sua respectiva área, trabalhou com os dados e análises correspondentes às perguntas que elaborou. Desse modo, os notebooks estão separados de acordo com as áreas trabalhadas, sendo elas: produção pecuária e agrícola, economia e empregabilidade, e dependência financeira dos municípios, relação das transferências e exportações. Os arquivos estão disponíveis na pasta Análise Exploratória dos Dados ou podem ser acessados individualmente nos seguintes documentos:
+  
+  - https://colab.research.google.com/drive/18VirQw0QL7h8nKGwJUFiUeBcw9bMI3Ps#scrollTo=t8eWonRCHb0x 
+  - https://colab.research.google.com/drive/18w2KW7gYA_kD-ktWlu8kbpTbMA_KF_Xx?authuser=2#scrollTo=QarxGRL5xPqj
+  - 
+  -
 
