@@ -61,6 +61,10 @@
 
 # Dependência financeira dos municípios, relação das transferências e exportações:
 
-  9) Existe uma relação entre o PIB municipal e a receita tributária, com uma menor dependência de transferências e um maior índice de autonomia financeira nos municípios? (Utilizar dados do Siconfi para análise)
+  9)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
   
-  10) Como funciona o processo de exportação no Brasil? O que é exportado dentro dos limites federais e o que é destinado a outros países? Quais setores dominam as exportações brasileiras e como eles se relacionam com a produção agrícola e pecuária? (Utilizar dados externos, possivelmente de COMEX STAT - MDIC)
+  10) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
+
+# -> Análise Exploratória dos Dados: 
+  Após a preparação dos dados, nesta etapa foram geradas estatísticas descritivas, gráficos e tabelas a fim de conhecer os dados. Cada integrante, responsável pela formulação das perguntas em sua respectiva área, trabalhou com os dados e análises correspondentes às perguntas que elaborou. Desse modo, os notebooks estão separados de acordo com as áreas trabalhadas, sendo elas: produção pecuária e agrícola, economia e empregabilidade, e dependência financeira dos municípios, relação das transferências e exportações. Os arquivos estão disponíveis na pasta X ou podem ser acessados individualmente nos seguintes documentos:
+
