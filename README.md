@@ -55,15 +55,20 @@
   4)  Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
   5)  Análises dos dados em busca de ruidos/outliers.
      
-  A visualização dos tratamentos realizados pode ser acessada pelo link: https://colab.research.google.com/drive/1ztOUOMFKtLA2Oix2uHLVwv6P7I3TrAyu?usp=sharing ou pelo arquivo Preparacao_dos_dados.ipynb.
+  A visualização dos tratamentos realizados pode ser acessada em: [Preparacao_dos_dados.ipynb](Preparacao_dos_dados.ipynb)
 
 # 🔴 ANÁLISE EXPLORATÓRIA DOS DADOS: 
   Após a preparação dos dados, nesta etapa foram geradas estatísticas descritivas, gráficos e tabelas a fim de conhecer os dados. Cada integrante, responsável pela formulação das perguntas em sua respectiva área, trabalhou com os dados e análises correspondentes às perguntas que elaborou. Desse modo, os notebooks estão separados de acordo com as áreas trabalhadas, sendo elas: produção pecuária e agrícola, economia e empregabilidade, e dependência financeira dos municípios, relação das transferências e exportações. Os arquivos estão disponíveis na pasta Análise Exploratória dos Dados ou podem ser acessados individualmente nos seguintes documentos:
   
-  - https://colab.research.google.com/drive/18VirQw0QL7h8nKGwJUFiUeBcw9bMI3Ps#scrollTo=t8eWonRCHb0x 
-  - https://colab.research.google.com/drive/18w2KW7gYA_kD-ktWlu8kbpTbMA_KF_Xx?authuser=2#scrollTo=QarxGRL5xPqj
-  - https://colab.research.google.com/drive/1gxGILt4CuhI82TZVisaqVhC78BkqGx4D
-  - https://colab.research.google.com/drive/1p5u-5Twq3FLsgUUKrujLklNOjabgTa2u?usp=sharing
+  🔸  [ Atividade Agrícola e Impacto do Covid-19](Análise%20Exploratória%20dos%20Dados/Análise_exploratória_dos_dados_Atividade_agrícola_e_Impacto_do_Covid_19.ipynb)
+  
+  🔸  [Atividade Agrícola, Pecuária e Qualidade da Água](Análise%20Exploratória%20dos%20Dados/Análise_exploratória_dos_dados_Atividade_agrícolas_e_pecuarias.ipynb)
+  
+  🔸  [Economia e Empregabilidade](Análise%20Exploratória%20dos%20Dados/Análise_exploratória_dos_dados_Economia.ipynb)
+  
+  🔸  [Dependência Financeira, Transferências e Exportações](Análise%20Exploratória%20dos%20Dados/Análise_exploratória_dos_dados_Dependência_financeira,_transferências_e_exportaçõesipynb.ipynb)
+
+     
     
 # 🟣 ORGANIZAÇÃO
 
