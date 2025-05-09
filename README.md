@@ -10,6 +10,8 @@
 
 [🔴 ANÁLISE EXPLORATÓRIA DOS DADOS](#-análise-exploratória-dos-dados)
 
+[🟠 INFERÊNCIA ESTATÍSTICA E REGRAS DE ASSOCIAÇÃO](#-inferência-estatística-e-regras-de-associação)
+
 [🟣 ORGANIZAÇÃO](#-organização)
 
 [🔵 AUTORES](#-autores)
@@ -68,7 +70,7 @@
   
   🔸  [Dependência Financeira, Transferências e Exportações](Análise%20Exploratória%20dos%20Dados/Análise_exploratória_dos_dados_Dependência_financeira,_transferências_e_exportaçõesipynb.ipynb)
 
-     
+# 🟠 INFERÊNCIA ESTATÍSTICA E REGRAS DE ASSOCIAÇÃO     
     
 # 🟣 ORGANIZAÇÃO
 
@@ -94,7 +96,7 @@
 
 4) Amanda: Responsável pela análise exploratória dos dados da área de dependência financeira dos municípios, com foco em transferências governamentais, exportações e receitas municipais.
 
-
+### ◽ENTREGA 3:
 
 
 
