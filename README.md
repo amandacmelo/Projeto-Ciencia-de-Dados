@@ -22,15 +22,15 @@
   ### 🐮🌱 Produção pecuária e agricola:
 
    1) Como a pandemia da COVID-19 afetou as cidades em que grande parte da renda era em torno do turismo?
-
-  2) Como a mudança da presidência e de outros poderes do governo federal no ano de 2018 afetou a produção pecuária e agricula nos anos seguintes?
-
-  3) De que maneira a produção e exportação de tais insumos primários impacta na qualidade de vida da população dos municípios descritos no dataset?
-
-  4) Estados com maior volume de atividades agropecuárias tendem a ter piores índices de perda e qualidade da água? (Usar o dataset do Diagnóstico dos Serviços de Água e Esgotos do Ministério das Cidades)
-  
-  5) Como a pandemia de COVID-19 afetou a relação entre a produção agrícola e pecuária?
-
+   
+   2) Ocorreu alguma alteração na produção pecuária e agrícola do período analisado?
+   
+   3) Como a pandemia de COVID-19 afetou a relação entre a produção agrícola e pecuária?
+   
+   4) De que maneira a produção e exportação de tais insumos primários impacta na qualidade de vida da população dos municípios descritos no dataset?
+   
+   5) Estados com maior volume de atividades agropecuárias tendem a ter piores índices de perda e qualidade da água?
+      
 ### 💸🗃 Economia e empregabilidade:
 
   6) De que maneira o investimento público nos Municípios afeta a empregabilidade destes? Cidades que recebem mais transferências (dinheiro) geram mais empregos?
