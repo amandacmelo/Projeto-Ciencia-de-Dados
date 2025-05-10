@@ -1,0 +1,406 @@
+Município,Região Turística,Domésticos,Internacionais,Estabelecimentos,Empregos,Arrecadação de Impostos,Categoria
+Rio Branco,Conheça Rio Branco,4602,26333,30,228,11391318,Município turístico
+Arapiraca,REGIÃO DO AGRESTE,215,18948,25,157,3857892,Município turístico
+Barra de São Miguel,REGIÃO CAMINHO DAS ÁGUAS ,207,7393,11,218,6328107,Município turístico
+Coruripe,REGIÃO CAMINHO DAS ÁGUAS ,311,19859,8,55,342504,Município turístico
+Japaratinga,REGIÃO COSTA DOS CORAIS,730,5641,21,679,10443834,Município turístico
+Maceió,Grande Maceió,78259,251570,124,2960,94665951,Município turístico
+Maragogi,REGIÃO COSTA DOS CORAIS,19347,49274,36,1889,35642489,Município turístico
+Piranhas,REGIÃO CÂNIONS DO SÃO FRANCISCO,388,8534,11,69,322325,Município turístico
+Porto de Pedras,REGIÃO COSTA DOS CORAIS,188,1635,14,346,3825426,Município turístico
+São Miguel dos Milagres,REGIÃO COSTA DOS CORAIS,1248,4802,15,371,3919242,Município turístico
+Manaus,Região Capital da Amazônia,88470,70136,85,843,156544168,Município turístico
+Macapá,Região Turística Meio do Mundo,5861,14993,32,224,7987657,Município turístico
+Alagoinhas,Caminhos do Sertão,467,5641,14,117,2745506,Município turístico
+Barreiras,Caminhos do Oeste,1563,58973,29,229,3372306,Município turístico
+Bom Jesus da Lapa,Caminhos do Oeste,1002,7376,26,107,596823,Município turístico
+Cairu,Costa do Dendê,93253,15082,123,1140,11543061,Município turístico
+Camaçari,Costa dos Coqueiros,9774,26601,47,785,15586344,Município turístico
+Entre Rios,Costa dos Coqueiros,209,34733,12,106,976519,Município turístico
+Feira de Santana,Caminhos do Sertão,4675,94127,45,390,16875181,Município turístico
+Ilhéus,Costa do Cacau,9781,65760,55,1049,15774002,Município turístico
+Itacaré,Costa do Cacau,17476,35855,57,811,9226961,Município turístico
+Jacobina,Chapada Diamantina,849,28846,14,83,1583470,Município turístico
+Jequié,Caminhos do Sudoeste,501,132931,19,139,1798155,Município turístico
+Lauro de Freitas,Costa dos Coqueiros,1505,8490,16,181,17084477,Município turístico
+Lençóis,Chapada Diamantina,22307,11792,21,254,2004912,Município turístico
+Maraú,Costa do Cacau,3731,15224,44,379,2510367,Município turístico
+Mata de São João,Costa dos Coqueiros,80017,48035,58,5623,99143692,Município turístico
+Mucuri,Costa das Baleias,1356,11559,19,93,704710,Município turístico
+Porto Seguro,Costa do Descobrimento,64066,164960,318,6439,83241081,Município turístico
+Prado,Costa das Baleias,1506,34822,49,286,4446366,Município turístico
+Salvador,Baía de Todos os Santos,326169,345439,267,3822,295225948,Município turístico
+Santo Amaro,Baía de Todos os Santos,222,22526,5,21,170906,Município turístico
+São Desidério,Caminhos do Oeste,0,17172,2,32,583512,Município turístico
+Seabra,Chapada Diamantina,46,696,14,61,607567,Município turístico
+Simões Filho,Baía de Todos os Santos,106,18404,2,1,3650936,Município turístico
+Una,Costa do Cacau,197,10120,4,611,14191962,Município turístico
+Valença,Costa do Dendê,1689,28832,27,133,1339306,Município turístico
+Vitória da Conquista,Caminhos do Sudoeste,3348,62363,30,294,10977509,Município turístico
+Amontada,Rota Costa dos Ventos,3485,5182,9,161,1092650,Município turístico
+Aquiraz,Rota das Falésias,3191,26285,26,960,38241740,Município turístico
+Aracati,Rota das Falésias,12909,22950,53,220,2446682,Município turístico
+Baturité,Serras de Aratanha e Baturité,341,50376,4,14,410751,Município turístico
+Beberibe,Rota das Falésias,3072,22094,20,367,5906066,Município turístico
+Camocim,Rota das Emoções CE,2314,19491,21,157,735420,Município turístico
+Canindé,Sertão Central,0,27375,10,19,455894,Município turístico
+Cascavel,Rota das Falésias,846,7899,12,120,1057979,Município turístico
+Cruz,Rota das Emoções CE,1058,2340,11,253,4204847,Município turístico
+Fortaleza,Fortaleza,142864,308837,163,2797,255759689,Município turístico
+Guaramiranga,Serras de Aratanha e Baturité,676,57795,10,64,1126535,Município turístico
+Jijoca de Jericoacoara,Rota das Emoções CE,58592,24394,114,1330,19207026,Município turístico
+Juazeiro do Norte,Cariri,915,50532,37,319,6300597,Município turístico
+São Gonçalo do Amarante,Rota Costa dos Ventos,3928,31349,12,233,7949871,Município turístico
+Tianguá,Chapada da Ibiapaba,261,16726,9,77,1075282,Município turístico
+Trairi,Rota Costa dos Ventos,3977,5741,14,190,2588041,Município turístico
+Brasília,Brasília,112474,178047,220,2346,366708597,Município turístico
+Anchieta,Costa e Imigração,448,15835,21,155,1635546,Município turístico
+Aracruz,Do Verde e das Águas,810,8551,21,148,4274120,Município turístico
+Conceição da Barra,Do Verde e das Águas,993,741,17,60,699855,Município turístico
+Domingos Martins,Montanhas Capixabas,281,48168,24,248,7448693,Município turístico
+Governador Lindenberg,Doce Pontões Capixaba,233,36904,1,4,18801,Município turístico
+Guarapari,Metropolitana,7759,73329,42,388,7222651,Município turístico
+Linhares,Do Verde e das Águas,1164,22215,16,177,6471908,Município turístico
+Marataízes,Costa e Imigração,839,11046,10,53,817298,Município turístico
+Piúma,Costa e Imigração,420,24541,13,12,386790,Município turístico
+São Mateus,Do Verde e das Águas,1970,23399,20,137,3626612,Município turístico
+São Mateus,Do Verde e das Águas,1970,23399,20,137,3626612,Município turístico
+Serra,Metropolitana,1826,12979,22,199,22590390,Município turístico
+Vila Velha,Metropolitana,6340,12968,24,225,23741107,Município turístico
+Vitória,Metropolitana,55348,140205,31,512,47977775,Município turístico
+Abadiânia,Região Turística Encantos do Planalto Central,6752,0,31,8,3847279,Município turístico
+Alto Paraíso de Goiás,Região Turística Chapada dos Veadeiros,5534,18786,36,277,3097269,Município turístico
+Caldas Novas,Região Turística das Águas Quentes,9963,170125,74,2149,31714654,Município turístico
+Goianésia,Região Turística do Ouro,584,5720,20,104,2285949,Município turístico
+Jataí,Região Turística Agroecológica,441,907,16,215,4761042,Município turístico
+Pirenópolis,Região Turística do Ouro,4412,37610,51,593,9429137,Município turístico
+Quirinópolis,Região Turística Lagos do Paranaíba,0,10202,10,61,3969295,Município turístico
+Rio Quente,Região Turística das Águas Quentes,220,14597,3,1852,51706073,Município turístico
+Rio Verde,Região Turística Agroecológica,2334,22874,32,327,9922252,Município turístico
+Trindade,Região Turística dos Negócios e Tradições,544,3059,36,100,1108984,Município turístico
+Açailândia,Polo Chapada das Mesas,765,2091,15,112,1096178,Município turístico
+Bacabal,Polo Cocais,370,18089,8,67,795878,Município turístico
+Balsas,Polo Chapada das Mesas,285,7234,15,195,3163893,Município turístico
+Barra do Corda,Polo Serras Guajajara Timbira e Kanela,37,14861,6,28,107143,Município turístico
+Barreirinhas,Polo Lençóis & Delta,15456,10320,27,251,2100164,Município turístico
+Carolina,Polo Chapada das Mesas,448,16378,8,116,1364952,Município turístico
+Caxias,Polo Cocais,402,12236,8,86,1058723,Município turístico
+Imperatriz,Polo Chapada das Mesas,5249,41811,29,319,12863231,Município turístico
+São Luís,Polo  São Luís,35971,141419,95,1084,57577410,Município turístico
+Alfenas,Lago de Furnas,943,10619,15,146,3140958,Município turístico
+Andradas,Caminhos Gerais,555,20998,4,18,1250211,Município turístico
+Arantina,Montanhas Mágicas da Mantiqueira,0,18125,1,3,23100,Município turístico
+Araxá,Nascentes das Gerais e Canastra,1606,16008,20,386,7585565,Município turístico
+Baependi,Águas,140,41252,7,24,162335,Município turístico
+Barbacena,Trilha dos Inconfidentes,879,12166,20,137,5471622,Município turístico
+Belo Horizonte,Capital Belo Horizonte,136312,303828,159,1776,1274775005,Município turístico
+Bocaina de Minas,Terras Altas da Mantiqueira,354,0,27,86,961743,Município turístico
+Brumadinho,Veredas,777,673,14,111,9387716,Município turístico
+Caeté,Ouro,0,5438,11,387,7085064,Município turístico
+Camanducaia,Serras Verdes do Sul de Minas,1363,34999,85,681,11216453,Município turístico
+Capitólio,Nascentes das Gerais e Canastra,2005,31472,17,359,6543730,Município turístico
+Caratinga,Rota do Muriqui,2633,23501,10,56,9878382,Município turístico
+Caxambu,Águas,1422,0,13,117,1353386,Município turístico
+Conceição do Mato Dentro,Serra do Cipó,418,2309,18,49,1266990,Município turístico
+Conselheiro Lafaiete,Villas e Fazendas de Minas,1099,4972,21,123,10858463,Município turístico
+Contagem,Veredas,1588,9485,23,157,45450128,Município turístico
+Curvelo,Guimarães Rosa,738,1173,14,132,2277451,Município turístico
+Diamantina,Diamantes,723,11759,21,130,1473149,Município turístico
+Divinópolis,Verde - Trilha dos Bandeirantes,1761,26096,23,206,11049199,Município turístico
+Dom Viçoso,Águas,0,19414,0,0,8851,Município turístico
+Extrema,Serras Verdes do Sul de Minas,896,28166,13,144,5420916,Município turístico
+Formiga,Grutas e Mar de Minas,319,8277,11,67,3849921,Município turístico
+Fronteira,Rota do Triângulo,0,18351,5,10,443113,Município turístico
+Gonçalves,Serras Verdes do Sul de Minas,284,17391,15,60,592967,Município turístico
+Governador Valadares,Trilhas do Rio Doce,13613,18625,30,316,11133957,Município turístico
+Guanhães,Trilhas do Rio Doce,302,16446,11,38,674073,Município turístico
+Ipatinga,Mata Atlântica de Minas,9884,31483,22,198,14938704,Município turístico
+Itajubá,Caminhos da Mantiqueira,2471,22048,15,105,3674139,Município turístico
+Itaúna,Verde - Trilha dos Bandeirantes,866,16144,6,77,8197080,Município turístico
+Ituiutaba,Rota do Triângulo,1743,3755,12,148,5111635,Município turístico
+Jaboticatubas,Serra do Cipó,1091,3760,8,203,1443799,Município turístico
+Janaúba,Serra Geral do Norte de Minas,587,24719,4,111,1610226,Município turístico
+João Monlevade,Montanhas e Fé,228,8089,14,106,8971729,Município turístico
+João Pinheiro,Noroeste das Gerais e Alto Paranaíba,0,2064,18,83,1566631,Município turístico
+Juiz de Fora,Caminho Novo,10777,74068,49,558,41869176,Município turístico
+Lagoa Santa,Grutas,1462,5295,12,170,7163756,Município turístico
+Lavras,Região Encantos de Minas,2018,3287,15,114,3774480,Município turístico
+Manhuaçu,Pico da Bandeira,800,18060,12,109,2857780,Município turístico
+Mariana,Ouro,1449,5805,19,120,6441188,Município turístico
+Montes Claros,Sertão Gerais,6094,100112,48,317,11644277,Município turístico
+Monte Sião,Malhas do Sul de Minas,682,10036,14,57,669462,Município turístico
+Muriaé,Serra do Brigadeiro,611,14205,16,119,3204258,Município turístico
+Nova Lima,Ouro,262,2448,13,41,17860907,Município turístico
+Ouro Branco,Ouro,1501,8423,11,77,4865553,Município turístico
+Ouro Preto,Ouro,25689,19847,68,512,8254079,Município turístico
+Paracatu,Noroeste das Gerais e Alto Paranaíba,338,6150,21,369,6583359,Município turístico
+Passa Quatro,Águas,232,5155,11,177,3124169,Município turístico
+Patos de Minas,Caminhos do Cerrado,3627,29252,25,256,10596593,Município turístico
+Patrocínio,Caminhos do Cerrado,938,930,15,112,4183680,Município turístico
+Pirapora,Guimarães Rosa,1287,17080,17,83,1658824,Município turístico
+Poços de Caldas,Caminhos Gerais,6355,57477,53,1028,21309834,Município turístico
+Ponte Nova,Montanhas e Fé,50,11977,11,76,1422934,Município turístico
+Porteirinha,Serra Geral do Norte de Minas,234,17004,4,10,700035,Município turístico
+Pouso Alegre,Caminhos da Mantiqueira,2646,22419,25,282,12112836,Município turístico
+Santa Bárbara,Ouro,293,15058,6,89,2094618,Município turístico
+Santana do Riacho,Serra do Cipó,527,10581,24,163,940700,Município turístico
+Santa Rita de Jacutinga,Serras de Ibitipoca,0,22413,1,3,39375,Município turístico
+Santa Rita do Sapucaí,Caminhos da Mantiqueira,929,32128,4,35,1185138,Município turístico
+São João del Rei,Trilha dos Inconfidentes,5013,13652,33,211,0,Município turístico
+São Lourenço,Águas,2073,11186,45,484,4384248,Município turístico
+São Thomé das Letras,Região Encantos de Minas,1192,11206,14,31,0,Município turístico
+Sete Lagoas,Grutas,3646,10624,26,181,9262725,Município turístico
+Teófilo Otoni,Pedras Preciosas,1236,30773,18,213,4471905,Município turístico
+Tiradentes,Trilha dos Inconfidentes,7012,22988,72,543,8997355,Município turístico
+Uberaba,Rota do Triângulo,5554,23016,41,505,31875498,Município turístico
+Uberlândia,Rota do Triângulo,18732,26583,54,693,62679049,Município turístico
+Unaí,Noroeste das Gerais e Alto Paranaíba,606,6315,17,133,2575100,Município turístico
+Varginha,Região Encantos de Minas,1605,21785,21,194,6879530,Município turístico
+Viçosa,Montanhas e Fé,3239,16496,7,44,4307951,Município turístico
+Aquidauana,Pantanal,1021,8629,14,44,544953,Município turístico
+Bonito,Bonito / Serra da Bodoquena,16968,28173,54,663,14388775,Município turístico
+Campo Grande,Campo Grande dos Ipês,35350,59780,77,867,42361827,Município turístico
+Corumbá,Pantanal,11596,5744,34,193,4646709,Município turístico
+Coxim,Rota Cerrado Pantanal,299,334,17,78,837591,Município turístico
+Dourados,Celeiro do MS,2719,21197,33,301,7869970,Município turístico
+Miranda,Pantanal,1296,3962,18,130,1744535,Município turístico
+Nova Andradina,Vale das Águas,111,365,14,82,1683295,Município turístico
+Ponta Porã,Caminhos da Fronteira,1819,15426,14,189,2437882,Município turístico
+Três Lagoas,Costa Leste,2087,11529,40,264,5782601,Município turístico
+Alta Floresta,Região Turística da Amazônia Mato-grossense,1034,6432,18,164,1983735,Município turístico
+Barra do Garças,Região Turística Roncador Xingu,1080,5859,22,203,2992390,Município turístico
+Cáceres,Região Turística  Pantanal Mato-Grossense,1203,4996,19,165,2200345,Município turístico
+Cuiabá,Região Turística Metropolitana,22923,55612,77,1249,52106311,Município turístico
+Juína,Região Turística Vale do Juruena,102,1793,13,99,1066888,Município turístico
+Nobres,Região Turística Circuito das Águas,82,925,15,29,324787,Município turístico
+Nova Mutum,Região Turística Portal do Agronegócio,0,8737,14,146,2380005,Município turístico
+Poconé,Região Turística  Pantanal Mato-Grossense,797,3160,20,306,5788254,Município turístico
+Primavera do Leste,Região Turística Rota dos Ipês e das Águas,922,5732,25,181,4363466,Município turístico
+Sinop,Região Turística Portal do Agronegócio,706,11823,31,430,8069669,Município turístico
+Sorriso,Região Turística Portal do Agronegócio,1131,7157,19,224,4362852,Município turístico
+Tangará da Serra,Região Turística das Nascentes,651,4560,21,121,3016055,Município turístico
+Várzea Grande,Região Turística Metropolitana,111,4984,35,338,14086843,Município turístico
+Altamira,Região Turística Xingu,1940,40849,30,142,2618013,Município turístico
+Ananindeua,Região Turística de Belém,478,341,12,165,8963807,Município turístico
+Belém,Região Turística de Belém,43143,166569,90,1002,138074032,Município turístico
+Bragança,Região Turística Amazônia Atlântica Caeté,1016,24873,11,89,412976,Município turístico
+Cametá,Região Turística do Tocantins,393,29584,4,22,50028,Município turístico
+Canaã dos Carajás,Região Turística  Carajás,64,5013,18,76,1714679,Município turístico
+Capanema,Região Turística Amazônia Atlântica Caeté,1382,14080,6,30,384197,Município turístico
+Itaituba,Região Turística do Alto Tapajós,1084,1536,15,101,2112373,Município turístico
+Juruti,Região Turística Rio Amazonas,216,14762,4,22,443449,Município turístico
+Marabá,Região Turística  Carajás,3666,23678,36,338,8377373,Município turístico
+Marapanim,Região Turística Amazônia Atlântica Guamá,182,36270,0,0,15137,Município turístico
+Novo Repartimento,Região Turística do Lago de Tucuruí,0,40045,5,8,75971,Município turístico
+Parauapebas,Região Turística  Carajás,926,25230,34,301,10633698,Município turístico
+Redenção,Região Turística do Araguaia,775,18749,14,98,1305822,Município turístico
+Salinópolis,Região Turística Amazônia Atlântica Caeté,2675,27030,14,183,2919705,Município turístico
+Santarém,Região Turística do Baixo Tapajós,9344,39856,38,361,11788604,Município turístico
+Tucuruí,Região Turística do Lago de Tucuruí,389,15179,6,27,641628,Município turístico
+Vitória do Xingu,Região Turística Xingu,0,14461,2,1,41739,Município turístico
+Campina Grande,Serra da Borborema,4608,45642,31,301,12112224,Município turístico
+Conde,Costa das Falésias,783,2953,21,240,1191355,Município turístico
+João Pessoa,Rota Sanhauá,33933,181969,79,1403,61736483,Município turístico
+Patos,Vale dos Sertões,262,10662,10,84,1780660,Município turístico
+Arcoverde,FÉ E ARTE,472,3333,13,157,1165282,Município turístico
+Caruaru,SERRAS E ARTES DE PERNAMBUCO,2653,19847,28,316,9936997,Município turístico
+Fernando de Noronha,HISTÓRIA E MAR,8062,1503,76,643,27232111,Município turístico
+Garanhuns,FÉ E ARTE,1248,14819,25,141,4772352,Município turístico
+Gravatá,SERRAS E ARTES DE PERNAMBUCO,634,22711,13,299,5497140,Município turístico
+Ipojuca,Rota 60 - Litoral Sul,94117,70911,131,4877,79511225,Município turístico
+Jaboatão dos Guararapes,HISTÓRIA E MAR,1347,0,21,123,25118204,Município turístico
+Olinda,COSTA NÁUTICA COROA DO AVIÃO,10489,2144,25,327,40285121,Município turístico
+Petrolina,ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO,5140,39054,29,251,17572346,Município turístico
+Recife,HISTÓRIA E MAR,124979,225751,117,2136,218943491,Município turístico
+Serra Talhada,CANGAÇO E LAMPIÃO,474,3960,16,90,767762,Município turístico
+Tamandaré,Rota 60 - Litoral Sul,3147,61225,26,342,8169132,Município turístico
+Cajueiro da Praia,Polo Costa do Delta,802,0,10,239,1732770,Município turístico
+Campo Maior,Polo Teresina,75,52340,6,30,328971,Município turístico
+Luís Correia,Polo Costa do Delta,988,45045,18,99,1216972,Município turístico
+Parnaíba,Polo Costa do Delta,4759,23996,30,253,2785530,Município turístico
+Teresina,Polo Teresina,9766,181923,54,756,44791339,Município turístico
+Bandeirantes,Norte Pioneiro,268,21118,4,19,480901,Município turístico
+Campo Mourão,"Ecoaventuras, Histórias e Sabores",1583,9929,14,149,6461945,Município turístico
+Cornélio Procópio,Norte Pioneiro,590,19642,7,345,8317647,Município turístico
+Curitiba,Rotas do Pinhão,190705,340696,185,2489,343932879,Município turístico
+Foz do Iguaçu,Cataratas do Iguaçu e Caminhos ao Lago de Itaipu,595662,79809,151,3953,98725210,Município turístico
+Francisco Beltrão,Vales do Iguaçu,1392,26050,11,89,3180343,Município turístico
+Guarapuava,Terra dos Pinheirais,7617,31074,27,265,6511954,Município turístico
+Guaratuba,Litoral do Paraná,13870,41321,25,276,3654163,Município turístico
+Irati,Terra dos Pinheirais,1778,27000,9,49,1930159,Município turístico
+Iretama,"Ecoaventuras, Histórias e Sabores",84,247,1,443,8501793,Município turístico
+Londrina,Norte do Paraná,26665,77146,37,403,53006026,Município turístico
+Matinhos,Litoral do Paraná,8447,70097,26,94,1623441,Município turístico
+Paranavaí,Águas do Arenito Caiuá,1631,13463,8,83,1932835,Município turístico
+Pontal do Paraná,Litoral do Paraná,2877,29277,11,14,1252995,Município turístico
+Prudentópolis,Terra dos Pinheirais,690,13580,6,42,772664,Município turístico
+Ribeirão Claro,Norte Pioneiro,111,0,1,301,3753103,Município turístico
+São José dos Pinhais,Rotas do Pinhão,361,3440,20,203,21458033,Município turístico
+Toledo,Riquezas do Oeste,7817,3109,18,159,4945249,Município turístico
+Angra dos Reis,COSTA VERDE,157173,116060,89,968,38385692,Município turístico
+Araruama,COSTA DO SOL,2259,36196,9,67,2970442,Município turístico
+Armação dos Búzios,COSTA DO SOL,320320,150405,209,2409,29279246,Município turístico
+Barra do Piraí,VALE DO CAFÉ,935,9788,18,222,3990560,Município turístico
+Cabo Frio,COSTA DO SOL,41049,116122,89,878,23094858,Município turístico
+Itaguaí,COSTA VERDE,1034,2873,16,94,7015973,Município turístico
+Itatiaia,AGULHAS NEGRAS,2916,30375,98,766,9568640,Município turístico
+Macaé,COSTA DO SOL,15241,22280,59,1305,40524478,Município turístico
+Mangaratiba,COSTA VERDE,7901,8186,19,1209,5129105,Município turístico
+Miguel Pereira,VALE DO CAFÉ,661,2462,13,256,1236017,Município turístico
+Niterói,METROPOLITANA,19548,45624,32,576,71352187,Município turístico
+Nova Iguaçu,BAIXADA VERDE,1855,3687,8,33,20450311,Município turístico
+Paraty,COSTA VERDE,127665,83780,179,1192,2285477,Município turístico
+Petrópolis,SERRA VERDE IMPERIAL,15066,104421,82,915,26054455,Município turístico
+Resende,AGULHAS NEGRAS,4897,52546,24,223,14360652,Município turístico
+Rio das Ostras,COSTA DO SOL,5394,11059,38,165,3466828,Município turístico
+Rio de Janeiro,METROPOLITANA,1651696,368722,431,14923,1914348885,Município turístico
+Valença,VALE DO CAFÉ,1252,5861,40,215,3648224,Município turístico
+Volta Redonda,VALE DO CAFÉ,4533,31843,17,188,12046595,Município turístico
+Caicó,IGR Seridó,232,17392,9,44,876802,Município turístico
+Goianinha,IGR Costa das Dunas,191,59032,3,15,318307,Município turístico
+Mossoró,IGR Costa Branca,1708,12673,23,347,7487099,Município turístico
+Natal,IGR Costa das Dunas,138309,234266,170,3623,94277970,Município turístico
+Nísia Floresta,IGR Costa das Dunas,60,4468,5,203,1533345,Município turístico
+São Miguel do Gostoso,IGR Costa das Dunas,1828,10684,28,203,1515176,Município turístico
+Tibau,IGR Costa Branca,664,19856,2,8,154222,Município turístico
+Tibau do Sul,IGR Costa das Dunas,72601,10148,94,1144,12994285,Município turístico
+Touros,IGR Costa das Dunas,136,9725,7,330,463100,Município turístico
+Ji-Paraná,POLO TURÍSTICO ROTA DAS ÁGUAS,1741,11948,21,146,3836752,Município turístico
+Porto Velho,Polo Turistico Madeira Mamoré,5512,26443,68,437,27376873,Município turístico
+Boa Vista,"Roraima, a Savana Amazônica",9669,6343,26,274,20060471,Município turístico
+Ametista do Sul,Rota Águas e Pedras,0,16361,3,24,439375,Município turístico
+Bento Gonçalves,Uva e Vinho,6627,32288,17,487,20692295,Município turístico
+Cachoeira do Sul,Central,555,12824,8,43,2070147,Município turístico
+Cambará do Sul,Campos de Cima da Serra,1659,7007,14,88,934419,Município turístico
+Canela,Hortênsias,9350,12485,48,403,20963062,Município turístico
+Canoas,Delta do Jacuí,20409,13579,21,185,20960301,Município turístico
+Capão da Canoa,Litoral Norte Gaúcho,34499,27131,36,153,2702734,Município turístico
+Caxias do Sul,Uva e Vinho,13600,45383,27,340,49275853,Município turístico
+Cruz Alta,Rota das Terras Encantadas,521,3796,14,105,2082210,Município turístico
+Erechim,Rota Termas e Lagos,2472,17213,21,112,7296702,Município turístico
+Gramado,Hortênsias,39774,209772,163,2980,125792314,Município turístico
+Gravataí,Delta do Jacuí,2817,14185,7,32,8106524,Município turístico
+Ijuí,"Rota das Águas,Culturas e Sabores",10064,9300,13,157,3598532,Município turístico
+Nova Petrópolis,Hortênsias,2676,4053,15,108,2927514,Município turístico
+Novo Hamburgo,Vale Germânico,11382,18447,13,88,20461274,Município turístico
+Pelotas,Costa Doce Gaúcha,30651,28286,34,322,16689516,Município turístico
+Porto Alegre,Delta do Jacuí,176836,185638,133,1831,246766597,Município turístico
+Rio Grande,Costa Doce Gaúcha,33288,41077,33,190,8419252,Município turístico
+Santa Cruz do Sul,Vale do Rio Pardo,5505,23372,16,139,16848066,Município turístico
+Santa Maria,Central,9873,67574,21,281,23281658,Município turístico
+SantAna do Livramento,Pampa Gaúcho,5256,3891,24,208,0,Município turístico
+Santa Vitória do Palmar,Costa Doce Gaúcha,6850,1503,10,29,361279,Município turístico
+São Leopoldo,Vale Germânico,3536,10696,11,86,7128029,Município turístico
+Torres,Litoral Norte Gaúcho,90900,47580,43,413,4054917,Município turístico
+Tramandaí,Litoral Norte Gaúcho,13531,21572,17,82,1720924,Município turístico
+Uruguaiana,Fronteira,14090,7657,20,124,2908697,Município turístico
+Vacaria,Campos de Cima da Serra,10208,3434,16,97,2774287,Município turístico
+Balneário Camboriú,Costa Verde & Mar ,186983,141521,117,2060,85932238,Município turístico
+Balneário Piçarras,Costa Verde & Mar ,1380,29128,6,107,981449,Município turístico
+Barra Velha,Vale dos Encantos,3534,26568,10,66,2247375,Município turístico
+Blumenau,Vale Europeu,17130,36445,34,422,41863755,Município turístico
+Bombinhas,Costa Verde & Mar ,245813,72664,132,914,11567850,Município turístico
+Brusque,Vale Europeu,1135,8793,9,154,7140558,Município turístico
+Criciúma,Encantos do Sul,8989,9298,13,223,10813741,Município turístico
+Florianópolis,Grande Florianópolis,852570,261194,275,3482,137931517,Município turístico
+Garopaba,Grande Florianópolis,64926,12692,38,234,3083925,Município turístico
+Gaspar,Vale Europeu,367,8946,6,397,17914198,Município turístico
+Governador Celso Ramos,Grande Florianópolis,20405,3806,5,224,8217116,Município turístico
+Imbituba,Encantos do Sul,17100,7154,72,472,7234379,Município turístico
+Itá,Alto Uruguai Catarinense ,0,9602,5,183,3501631,Município turístico
+Itajaí,Costa Verde & Mar ,8487,15846,28,531,143044562,Município turístico
+Itapema,Costa Verde & Mar ,149126,42625,17,161,10908108,Município turístico
+Itapoá,Caminho dos Príncipes,4933,44123,11,51,712995,Município turístico
+Jaraguá do Sul,Vale dos Encantos,8141,12492,11,236,10646877,Município turístico
+Joinville,Caminho dos Príncipes,21027,47402,46,598,54905030,Município turístico
+Laguna,Encantos do Sul,10788,12142,17,102,2680996,Município turístico
+Navegantes,Costa Verde & Mar ,3253,28162,13,82,7512764,Município turístico
+Palhoça,Grande Florianópolis,15984,14398,17,152,8908358,Município turístico
+Penha,Costa Verde & Mar ,5781,39323,41,311,43573311,Município turístico
+Piratuba,Alto Uruguai Catarinense ,0,4717,14,384,6813049,Município turístico
+Porto Belo,Costa Verde & Mar ,13396,3948,9,21,2714845,Município turístico
+Santo Amaro da Imperatriz,Grande Florianópolis,1197,2203,3,240,1879568,Município turístico
+São Bento do Sul,Caminho dos Príncipes,752,24527,9,90,5291734,Município turístico
+São Francisco do Sul,Caminho dos Príncipes,9880,18564,20,65,2593346,Município turístico
+Urubici,Serra Catarinense,692,16800,24,105,1999641,Município turístico
+Aracaju,Polo Costa dos Coqueirais,16161,130676,100,1496,36850268,Município turístico
+Barra dos Coqueiros,Polo Costa dos Coqueirais,0,0,3,264,2931351,Município turístico
+Estância,Polo Costa dos Coqueirais,0,12884,10,39,838739,Município turístico
+Itaporanga dAjuda,Polo Costa dos Coqueirais,0,17010,1,9,0,Município turístico
+Águas de Lindóia,Circuito das Águas Paulista,1483,26938,26,971,8784332,Município turístico
+Águas de São Pedro,Serra do Itaqueri,706,8994,12,61,1806984,Município turístico
+Americana,Bem Viver,4763,13643,16,150,17075947,Município turístico
+Aparecida,Região Turística da Fé,4053,111855,175,1208,4828584,Município turístico
+Araçatuba,Tietê Vivo,3037,13811,26,218,8469175,Município turístico
+Araraquara,Centro Paulista,6974,429,23,293,30684501,Município turístico
+Atibaia,Circuito das Frutas,5340,80220,26,1451,25945933,Município turístico
+Avaré,ANGRA PAULISTA,985,18740,17,97,4242483,Município turístico
+Barra Bonita,Caminhos do Tietê,39,3181,9,254,4182835,Município turístico
+Barretos,Águas Sertanejas,4744,43466,28,400,8927786,Município turístico
+Bauru,Coração Paulista,11796,40208,40,222,30108238,Município turístico
+Bertioga,Litoral Norte de São Paulo,6755,143661,35,261,6530198,Município turístico
+Botucatu,Cuesta Paulista,4123,22914,11,82,7194012,Município turístico
+Bragança Paulista,Entre Serras e Águas,3086,42529,14,179,32144539,Município turístico
+Brotas,Serra do Itaqueri,1531,6957,27,280,6753567,Município turístico
+Caçapava,Rios do Vale,870,35246,3,26,5366575,Município turístico
+Cachoeira Paulista,Região Turística da Fé,1393,2827,15,44,1115560,Município turístico
+Campinas,Bem Viver,71490,109649,83,1297,172990527,Município turístico
+Campos do Jordão,MANTIQUEIRA PAULISTA,8548,87913,137,1573,41589197,Município turístico
+Cananéia,Lagamar,1077,9977,20,44,292253,Município turístico
+Capivari,Bem Viver,604,34858,4,23,1945131,Município turístico
+Caraguatatuba,Litoral Norte de São Paulo,8168,84320,49,475,8091974,Município turístico
+Cesário Lange,Raízes do Interior Paulista,182,0,9,331,10027625,Município turístico
+Embu das Artes,"Mananciais, Aventura, Artes e Negócios",1245,7968,9,145,3260078,Município turístico
+Franca,Lagos do Rio Grande,3593,31782,18,187,11986249,Município turístico
+Guaratinguetá,Região Turística da Fé,4191,11972,17,343,9422969,Município turístico
+Guarujá,Costa da Mata Atlântica,29526,319316,73,1157,29780864,Município turístico
+Ibiúna,"Mananciais, Aventura, Artes e Negócios",1249,6920,6,203,2651775,Município turístico
+Ilhabela,Litoral Norte de São Paulo,22954,70200,114,1155,21907685,Município turístico
+Ilha Comprida,Lagamar,597,8059,20,54,346688,Município turístico
+Indaiatuba,Circuito das Frutas,9406,22514,18,141,16666021,Município turístico
+Itanhaém,Costa da Mata Atlântica,1901,64181,20,101,2790985,Município turístico
+Itapeva,Região Turística dos Cânions Paulista,652,9604,12,57,1626129,Município turístico
+Itatiba,Circuito das Frutas,1906,9330,7,243,13443692,Município turístico
+Itu,Roteiro dos Bandeirantes,5135,111612,19,522,38721671,Município turístico
+Jacareí,Rios do Vale,3170,3993,15,94,14042967,Município turístico
+Jales,Entre Rios,275,14611,9,43,931573,Município turístico
+Jaú,Caminhos do Tietê,1193,22994,13,117,7325022,Município turístico
+Joanópolis,Entre Serras e Águas,64,20365,8,133,1510349,Município turístico
+Jundiaí,Circuito das Frutas,14596,25474,23,274,73824660,Município turístico
+Lins,Coração do Tietê,1171,7890,15,260,7549813,Município turístico
+Mairiporã,Entre Serras e Águas,763,9933,15,239,10263389,Município turístico
+Marília,Alto Cafezal,3755,31599,26,202,13710959,Município turístico
+Mauá,ABCTur - Roteiro da Natureza e da Indústria,596,6460,7,67,18011430,Município turístico
+Mogi das Cruzes,Nascentes do Tietê,5932,2407,15,862,105974931,Município turístico
+Mongaguá,Costa da Mata Atlântica,2623,21326,3,5,993706,Município turístico
+Monte Alegre do Sul,Circuito das Águas Paulista,111,13853,10,38,548514,Município turístico
+Nazaré Paulista,Entre Serras e Águas,364,4671,16,195,1360777,Município turístico
+Olímpia,"Águas, Cultura e Negócios",1525,48471,53,611,39307010,Município turístico
+Osasco,Negócios e Cultura,2263,10498,21,219,67017598,Município turístico
+Ourinhos,ANGRA PAULISTA,2227,4739,14,88,4780780,Município turístico
+Peruíbe,Costa da Mata Atlântica,2892,32931,29,98,2314502,Município turístico
+Porto Feliz,Roteiro dos Bandeirantes,595,0,6,266,1838596,Município turístico
+Praia Grande,Costa da Mata Atlântica,3851,134294,21,119,16351041,Município turístico
+Presidente Epitácio,Sol do Oeste,343,2656,14,73,802333,Município turístico
+Presidente Prudente,Sol do Oeste,5176,21190,27,221,17953069,Município turístico
+Rancharia,Sol do Oeste,120,14631,3,38,614608,Município turístico
+Registro,Caminhos da Mata Atlântica,869,10724,14,125,4203937,Município turístico
+Ribeirão Preto,Raízes do Campo,21292,128320,72,642,84686196,Município turístico
+Rio Claro,Serra do Itaqueri,2072,1400,14,102,7756244,Município turístico
+Santa Bárbara dOeste,Bem Viver,524,16765,8,69,0,Município turístico
+Santo André,ABCTur - Roteiro da Natureza e da Indústria,9234,14223,18,203,216454208,Município turístico
+São Bento do Sapucaí,MANTIQUEIRA PAULISTA,257,1008,13,82,1594132,Município turístico
+São Bernardo do Campo,ABCTur - Roteiro da Natureza e da Indústria,5657,30663,40,464,62196924,Município turístico
+São Caetano do Sul,ABCTur - Roteiro da Natureza e da Indústria,3965,4171,8,75,59792748,Município turístico
+São Carlos,Serra do Itaqueri,10210,7101,27,225,15378607,Município turístico
+São José do Rio Preto,"Águas, Cultura e Negócios",9545,159453,32,402,153963720,Município turístico
+São Pedro,Serra do Itaqueri,1996,16239,14,254,6261483,Município turístico
+São Sebastião,Litoral Norte de São Paulo,18668,200106,157,1783,29616786,Município turístico
+Serra Negra,Circuito das Águas Paulista,978,11878,45,709,8075326,Município turístico
+Sertãozinho,Raízes do Campo,907,7331,13,75,5721398,Município turístico
+Socorro,Circuito das Águas Paulista,737,25762,21,347,4961898,Município turístico
+Taubaté,Rios do Vale,6226,21493,23,297,21695294,Município turístico
+Ubatuba,Litoral Norte de São Paulo,38475,236388,169,1292,18898468,Município turístico
+Valinhos,Circuito das Frutas,2998,15932,6,67,22181429,Município turístico
+Araguaína,Vale dos Grandes Rios,1837,33692,30,181,4754953,Município turístico
+Palmas,Serras e Lago,6625,82160,63,455,15470785,Município turístico
