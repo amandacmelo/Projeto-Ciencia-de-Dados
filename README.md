@@ -47,15 +47,20 @@
 
 
 # 🟢 PREPARAÇÃO DO DADOS: 
-  Após a definição da temática principal que abordaremos em nosso projeto, realizamos a preparação dos dados, buscando entender os atributos dos objetos, a tipagem dos atributos, além de identificar e tratar possíveis ruídos ou ausência de informações. Por fim, realizamos a limpeza dos dados que consideramos desnecessários para nossas futuras análises.
+  Após a definição da temática principal que será abordade no projeto, foi realizada a preparação dos dados, buscando entender os atributos dos objetos, a tipagem dos atributos, além de identificar e tratar possíveis ruídos ou ausência de informações. Por fim, realizou-se a limpeza dos dados que foram considerados desnecessários para as futuras análises.
   
   Desse modo, para o tratamento de dados a equipe realizou:
   
-  1)  Ajuste nos tipos de atributos e valores de ponto flutuante: realizamos a transformação dos atributos para seus tipos corretos, uma vez que a grande maioria estava definida como 'object' no conjunto de dados analisado.
-  2)  Tratamento dos dados referentes receita, exportação e importação: retirada dos objetos com valores vazios.
-  3)  Transformação de todos os valores 'nan' em 0.
-  4)  Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
-  5)  Análises dos dados em busca de ruidos/outliers.
+  
+  1)   Verificação dos atributos
+  2)   Verificação do período de análise
+  3)   Ajuste nos tipos de atributos e valores de ponto flutuante: realizou-se a transformação dos atributos para seus tipos corretos, uma vez que a grande maioria estava definida como 'object' no conjunto de dados analisado.
+  4)  Tratamento dos dados referentes receita, exportação e importação: retirada dos objetos com valores vazios.
+  5)  Transformação de todos os valores 'nan' em 0.
+  6)  Preenchimento de valores ausentes
+  7)  Retirada de atributos
+  8)  Criação de novos atributos: utilizando os dados fornecidos por esse dataset, também construímos novos atributos para facilitar futuras análises.
+  9)  Análises dos dados em busca de ruidos/outliers.
      
   A visualização dos tratamentos realizados pode ser acessada em: [Preparacao_dos_dados.ipynb](Preparacao_dos_dados.ipynb)
 
