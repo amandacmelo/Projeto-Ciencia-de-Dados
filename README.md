@@ -76,6 +76,9 @@
   🔸  [Dependência Financeira, Transferências e Exportações](Análise%20Exploratória%20dos%20Dados/Análise_exploratória_dos_dados_Dependência_financeira,_transferências_e_exportaçõesipynb.ipynb)
 
 # 🟠 INFERÊNCIA ESTATÍSTICA E REGRAS DE ASSOCIAÇÃO     
+
+Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicação de técnicas de inferência estatística e algoritmos de regras de associação, com o objetivo de aprofundar a investigação de aspectos relevantes identificados na fase exploratória. A partir de novas indagações surgidas durante a análise, foi elaborada uma nova pergunta de pesquisa voltada à investigação de possíveis relações entre variáveis. Com isso, foram aplicados testes estatísticos para avaliar a significância dos padrões observados e, em paralelo, utilizou-se um algoritmo de regras de associação para extrair combinações de variáveis com maior ocorrência conjunta nos dados. Os resultados dessas análises foram interpretados e discutidos, contribuindo para uma compreensão mais robusta dos fenômenos observados. As análises estão organizadas na pasta **Análise Estatística e Padrões de Associação**. (possível texto, alterar na versão final da entrega)
+
     
 # 🟣 ORGANIZAÇÃO
 
