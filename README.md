@@ -23,13 +23,13 @@
 
    1) Como a pandemia da COVID-19 afetou as cidades em que grande parte da renda era em torno do turismo?
    
-   2) Ocorreu alguma alteração na produção pecuária e agrícola do período analisado?
+   2) Há evidência de que municípios com maior valor de produção pecuária também apresentam maior PIB?
    
    3) Como a pandemia de COVID-19 afetou a relação entre a produção agrícola e pecuária?
    
    4) De que maneira a produção e exportação de tais insumos primários impacta na qualidade de vida da população dos municípios descritos no dataset?
    
-   5) Estados com maior volume de atividades agropecuárias tendem a ter piores índices de perda e qualidade da água?
+   5) Municípios com maior produção agrícola tendem a ter maior área desmatada?
       
 ### 💸🗃 Economia e empregabilidade:
 
@@ -112,7 +112,7 @@ Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicaç
 
 1) Caio:
 
-2) Letícia:
+2) Letícia: Responsável pela Inferência Estatística e Regra de Associação da área de Agropecuária, por meio da criação de duas novas perguntas
 
 3) Melissa:
 
