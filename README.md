@@ -80,8 +80,7 @@
 # 🟠 INFERÊNCIA ESTATÍSTICA E REGRAS DE ASSOCIAÇÃO     
 
 Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicação de técnicas de inferência estatística e algoritmos de regras de associação, com o objetivo de aprofundar a investigação de aspectos relevantes identificados na fase exploratória. A partir de novas indagações surgidas durante a análise, foi elaborada uma nova pergunta de pesquisa voltada à investigação de possíveis relações entre variáveis. Com isso, foram aplicados testes estatísticos para avaliar a significância dos padrões observados e, em paralelo, utilizou-se um algoritmo de regras de associação para extrair combinações de variáveis com maior ocorrência conjunta nos dados. Os resultados dessas análises foram interpretados e discutidos, contribuindo para uma compreensão mais robusta dos fenômenos observados. As análises estão organizadas na pasta:
-[**Análise Estatística e Regras de Associação**](./An%C3%A1lise%20Estat%C3%ADstica%20e%20Regras%20de%20Associa%C3%A7%C3%A3o)
-
+[**Inferência Estatística e Regras de Associação**](./Infer%C3%AAncia%20Estat%C3%ADstica%20e%20Regras%20de%20Associa%C3%A7%C3%A3o)
 
     
 # 🟣 ORGANIZAÇÃO
