@@ -112,7 +112,7 @@ Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicaç
 
 2) Letícia: Responsável pela Inferência Estatística e Regra de Associação da área de Agropecuária, por meio da criação de duas novas perguntas
 
-3) Melissa:
+3) Melissa: Responsável pela criação de uma Regra de Associação para a pergunta 7.
 
 4) Amanda: Responsável pela Inferência Estatística da área de Economia e Empregabilidade a partir da criação de uma nova pergunta
 
