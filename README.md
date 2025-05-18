@@ -37,13 +37,15 @@
   
   7) O crescimento econômico de uma cidade/região possui relação com o seu povoamento? Cidades e regiões mais densamente povoadas possuem um PIB maior? Além disso, elas geram mais empregos?
 
-   8) Como a pandemia da COVID-19 afetou as cidades em que grande parte da renda era em torno do turismo?
+  8) Como a pandemia da COVID-19 afetou as cidades em que grande parte da renda era em torno do turismo?
+
+  9) Municípios com maior proporção de pessoal assalariado apresentam um PIB per capita significativamente diferente dos demais?"
 
 ### 📦💰 Dependência financeira dos municípios, relação das transferências e exportações:
 
-  9)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
+  10)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
   
-  10) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
+  11) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
 
 
 # 🟢 PREPARAÇÃO DO DADOS: 
@@ -77,7 +79,9 @@
 
 # 🟠 INFERÊNCIA ESTATÍSTICA E REGRAS DE ASSOCIAÇÃO     
 
-Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicação de técnicas de inferência estatística e algoritmos de regras de associação, com o objetivo de aprofundar a investigação de aspectos relevantes identificados na fase exploratória. A partir de novas indagações surgidas durante a análise, foi elaborada uma nova pergunta de pesquisa voltada à investigação de possíveis relações entre variáveis. Com isso, foram aplicados testes estatísticos para avaliar a significância dos padrões observados e, em paralelo, utilizou-se um algoritmo de regras de associação para extrair combinações de variáveis com maior ocorrência conjunta nos dados. Os resultados dessas análises foram interpretados e discutidos, contribuindo para uma compreensão mais robusta dos fenômenos observados. As análises estão organizadas na pasta **Análise Estatística e Padrões de Associação**. (possível texto, alterar na versão final da entrega)
+Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicação de técnicas de inferência estatística e algoritmos de regras de associação, com o objetivo de aprofundar a investigação de aspectos relevantes identificados na fase exploratória. A partir de novas indagações surgidas durante a análise, foi elaborada uma nova pergunta de pesquisa voltada à investigação de possíveis relações entre variáveis. Com isso, foram aplicados testes estatísticos para avaliar a significância dos padrões observados e, em paralelo, utilizou-se um algoritmo de regras de associação para extrair combinações de variáveis com maior ocorrência conjunta nos dados. Os resultados dessas análises foram interpretados e discutidos, contribuindo para uma compreensão mais robusta dos fenômenos observados. As análises estão organizadas na pasta:
+[**Análise Estatística e Regras de Associação**](./An%C3%A1lise%20Estat%C3%ADstica%20e%20Regras%20de%20Associa%C3%A7%C3%A3o)
+
 
     
 # 🟣 ORGANIZAÇÃO
@@ -105,6 +109,16 @@ Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicaç
 4) Amanda: Responsável pela análise exploratória dos dados da área de dependência financeira dos municípios, com foco em transferências governamentais, exportações e receitas municipais.
 
 ### ◽ENTREGA 3:
+  Para a entrega referente à Inferência Estatística e Regras de Associação, as tarefas foram designadas da seguinte forma:
+
+1) Caio:
+
+2) Letícia:
+
+3) Melissa:
+
+4) Amanda: Responsável pela Inferência Estatística da área de Economia e Empregabilidade a partir da criação de uma nova pergunta
+
 
 
 
