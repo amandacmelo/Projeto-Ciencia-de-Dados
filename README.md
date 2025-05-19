@@ -108,7 +108,7 @@ Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicaç
 ### ◽ENTREGA 3:
   Para a entrega referente à Inferência Estatística e Regras de Associação, as tarefas foram designadas da seguinte forma:
 
-1) Caio:
+1) Caio: Responsável pela Inferência Estatística e Regra de Associação da área de Turismo, para a pergunta 1
 
 2) Letícia: Responsável pela Inferência Estatística e Regra de Associação da área de Agropecuária, por meio da criação de duas novas perguntas
 
