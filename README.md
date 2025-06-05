@@ -131,7 +131,7 @@ Após a realização da inferência estatística e da aplicação das regras de 
 
 1) Caio: Responsável pela aplicação da Regressão na área Agrícola, como em em análises multivariaveis para análises de Valor de produção Agrícola
 
-2) Letícia: 
+2) Letícia:  Responsável pela aplicação da Regressão na área Agrícola,com foco em desmatamento
 
 3) Melissa: Responsável pela aplicação da Regressão na área da Economia, como em Transferências de Capital vs Empregabilidade, além do Produto Interno Bruto (PIB) vs População
 
