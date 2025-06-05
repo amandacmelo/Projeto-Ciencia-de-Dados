@@ -84,7 +84,8 @@ Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicaç
 
 # 🟤 REGRESSÃO LINEAR 
 Após a realização da inferência estatística e da aplicação das regras de associação, a equipe deu continuidade ao processo de resposta às perguntas formuladas por meio da utilização da regressão linear, com o objetivo de investigar as relações entre as variáveis envolvidas, aprofundando a compreensão dessas relações e avaliando a significância estatística das variáveis explicativas e seu impacto. Para isso, foram realizados testes e análises que permitiram identificar quais fatores exercem maior influência e contribuem para explicar as indagações levantadas, possibilitando, assim, a formulação de conclusões fundamentadas a partir dos dados disponíveis. Os resultados foram interpretados e discutidos, e podem ser acessados na pasta:
-[**Regressão Linear**](Projeto-Ciencia-de-Dados/Regressão%20Linear/)
+[**Regressão Linear**](./Regress%C3%A3o%20Linear/)
+
 
 
     
