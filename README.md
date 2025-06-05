@@ -12,6 +12,8 @@
 
 [🟠 INFERÊNCIA ESTATÍSTICA E REGRAS DE ASSOCIAÇÃO](#-inferência-estatística-e-regras-de-associação)
 
+[🟤 REGRESSÃO LINEAR](#-regressão-linear)
+
 [🟣 ORGANIZAÇÃO](#-organização)
 
 [🔵 AUTORES](#-autores)
@@ -80,6 +82,9 @@
 Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicação de técnicas de inferência estatística e algoritmos de regras de associação, com o objetivo de aprofundar a investigação de aspectos relevantes identificados na fase exploratória. A partir de novas indagações surgidas durante a análise, foi elaborada uma nova pergunta de pesquisa voltada à investigação de possíveis relações entre variáveis. Com isso, foram aplicados testes estatísticos para avaliar a significância dos padrões observados e, em paralelo, utilizou-se um algoritmo de regras de associação para extrair combinações de variáveis com maior ocorrência conjunta nos dados. Os resultados dessas análises foram interpretados e discutidos, contribuindo para uma compreensão mais robusta dos fenômenos observados. As análises estão organizadas na pasta:
 [**Inferência Estatística e Regras de Associação**](./Infer%C3%AAncia%20Estat%C3%ADstica%20e%20Regras%20de%20Associa%C3%A7%C3%A3o)
 
+# 🟤 REGRESSÃO LINEAR 
+Após a realização da inferência estatística e da aplicação das regras de associação, a equipe deu continuidade ao processo de resposta às perguntas formuladas por meio da utilização da regressão linear, com o objetivo de investigar as relações entre as variáveis envolvidas, aprofundando a compreensão dessas relações e avaliando a significância estatística das variáveis explicativas e seu impacto. Para isso, foram realizados testes e análises que permitiram identificar quais fatores exercem maior influência e contribuem para explicar as indagações levantadas, possibilitando, assim, a formulação de conclusões fundamentadas a partir dos dados disponíveis. Os resultados foram interpretados e discutidos, e podem ser acessados na pasta:
+
     
 # 🟣 ORGANIZAÇÃO
 
@@ -116,6 +121,16 @@ Nesta etapa, o grupo deu continuidade à análise dos dados por meio da aplicaç
 
 4) Amanda: Responsável pela Inferência Estatística da área de Economia e Empregabilidade a partir da criação de uma nova pergunta
 
+### ◽ENTREGA 4:
+  Para a entrega referente à Regressão Linear, as tarefas foram dividas da seguinte maneira:
+
+1) Caio: 
+
+2) Letícia: 
+
+3) Melissa:
+
+4) Amanda: Responsável pela Regressão da área de Economia e Empregabilidade e da Dependência Financeira dos municípios
 
 
 
