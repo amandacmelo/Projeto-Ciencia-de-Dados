@@ -32,20 +32,22 @@
    4) De que maneira a produção e exportação de tais insumos primários impacta na qualidade de vida da população dos municípios descritos no dataset?
    
    5) Municípios com maior produção agrícola tendem a ter maior área desmatada?
+   
+   6) Quais fatores e aspectos que mais influenciam a produção agrícola?
       
 ### 💸🗃 Economia e empregabilidade:
 
-  6) De que maneira o investimento público nos Municípios afeta a empregabilidade destes? Cidades que recebem mais transferências (dinheiro) geram mais empregos?
+  7) De que maneira o investimento público nos Municípios afeta a empregabilidade destes? Cidades que recebem mais transferências (dinheiro) geram mais empregos?
   
-  7) Cidades e regiões com maior população possuem um PIB per capita mais alto em relação aos demais? Como o crescimento enconômico de uma região se relaciona com sua população?
+  8) Cidades e regiões com maior população possuem um PIB per capita mais alto em relação aos demais? Como o crescimento enconômico de uma região se relaciona com sua população?
 
-  8) Municípios com maior proporção de pessoal assalariado apresentam um PIB per capita significativamente diferente dos demais?"
+  9) Municípios com maior proporção de pessoal assalariado apresentam um PIB per capita significativamente diferente dos demais?"
 
 ### 📦💰 Dependência financeira dos municípios, relação das transferências e exportações:
 
-  9)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
+  10)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
   
-  10) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
+  11) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
 
 
 # 🟢 PREPARAÇÃO DO DADOS: 
@@ -127,7 +129,7 @@ Após a realização da inferência estatística e da aplicação das regras de 
 ### ◽ENTREGA 4:
   Para a entrega referente à Regressão Linear, as tarefas foram dividas da seguinte maneira:
 
-1) Caio: 
+1) Caio: Responsável pela aplicação da Regressão na área Agrícola, como em em análises multivariaveis para análises de Valor de produção Agrícola
 
 2) Letícia: 
 
