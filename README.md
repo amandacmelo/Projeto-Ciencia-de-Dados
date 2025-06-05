@@ -131,7 +131,7 @@ Após a realização da inferência estatística e da aplicação das regras de 
 
 2) Letícia: 
 
-3) Melissa:
+3) Melissa: Responsável pela aplicação da Regressão na área da Economia, como em Transferências de Capital vs Empregabilidade, além do Produto Interno Bruto (PIB) vs População
 
 4) Amanda: Responsável pela Regressão da área de Economia e Empregabilidade e da Dependência Financeira dos municípios
 
