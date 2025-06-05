@@ -1,0 +1,345 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/amandacmelo/Projeto-Ciencia-de-Dados/blob/main/Regress%C3%A3o%20Linear/%20Regress%C3%A3o%20Linear%20analises%20com%20Valor%20de%20Producao%20Agricola\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GH9K824MjWJq",
+        "outputId": "3400f12b-9450-465e-88f6-4b35945be528"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "Index(['Ano', 'CDMunicipio', 'Populacao', 'PessoalOcupado',\n",
+              "       'PessoalAssalariado', 'VrSalarios', 'PIB', 'QtEmpresas',\n",
+              "       'AreaPlantada_h', 'AreaColhida_h', 'VlProducaoAgricola',\n",
+              "       'VlProducaoPecuaria', 'Area', 'Importacoes_US$', 'Exportacoes_US$',\n",
+              "       'Receitas_R$', 'Transferencias_correntes_R$',\n",
+              "       'Transferencias_capital_R$', 'NrNascimentos', 'NrObitosInfantis',\n",
+              "       'povoamento', 'PIB_PerCapita', 'Densidade_Populacional',\n",
+              "       'Proporcao_PessoalAssalariado', 'Proporcao_Area_Plantada'],\n",
+              "      dtype='object')"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 2
+        }
+      ],
+      "source": [
+        "#Importação da bibliotecas necessárias\n",
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "\n",
+        "url = \"https://raw.githubusercontent.com/amandacmelo/Projeto-Ciencia-de-Dados/main/dados_limpos.csv\"\n",
+        "dados = pd.read_csv(url, sep=\",\")\n",
+        "\n",
+        "dados.columns\n",
+        "\n",
+        "dados_numericas = dados.select_dtypes(include=['number'])\n",
+        "dados_numericas.columns"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **📈 Correlação entre as colunas do dataset**"
+      ],
+      "metadata": {
+        "id": "_8bKV_8Uo47V"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import matplotlib.pyplot as plt\n",
+        "import seaborn as sns\n",
+        "sns.pairplot(dados[['AreaPlantada_h','AreaColhida_h', 'VlProducaoPecuaria', 'VlProducaoAgricola', 'PIB', 'Area', 'PIB_PerCapita','Receitas_R$' ]])"
+      ],
+      "metadata": {
+        "id": "fbqYLQh8cMF3"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "A partir dos gráficos é possivel observarmos que a maior parte das colunas analisadas possuem pouca ou quase nenhuma relação umas com as outras.\n",
+        "\n",
+        "Como já esperado, as colunas que possuem grande correlação são as de **'AreaPlantada_h' e 'AreaColhida_h'**, evidenciada pela formação de um padrão linear bem definido. Isso nos sugere que áreas mais plantadas resultam, proporcionalmente, em áreas com maior colheita — uma relação que de certa forma é intuitiva."
+      ],
+      "metadata": {
+        "id": "BEl4BuIanUfo"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# 🟢 **Regressão- Quais fatores e aspectos que mais influenciam a produção agrícola?**\n",
+        "\n",
+        "Seguindo a análise de correlação realizada nos gráficos da primeira etapa, foi identificado que **muitas variáveis não apresentaram uma correlação linear forte com o valor da produção agrícola**. Ainda assim, nesta etapa do projeto, optamos por aplicar uma regressão linear - utilizando o modelo LinearRegression, com o objetivo de estimar o valor da produção agrícola de um município, utilizando as seguintes variáveis:\n",
+        "\n",
+        "- AreaColhida_h: área efetivamente colhida no município;\n",
+        "\n",
+        "- regiao_agricola: variável binária que indica se o município está localizado em uma região com vocação agrícola (variavel criada neste notebook);\n",
+        "\n",
+        "- VlProducaoPecuaria: valor da produção pecuária no município;\n",
+        "\n",
+        "- AreaPlantada_h: área plantada no município;\n",
+        "\n",
+        "- Area: área total do município;\n",
+        "\n",
+        "- Importacoes e Exportacoes: volume de importações e exportações;\n",
+        "\n",
+        "- PIB: Produto Interno Bruto, representando a soma dos bens e serviços produzidos localmente.\n",
+        "\n",
+        "Vale ressaltar de que, para essa análise, foram utilizados dados previamente filtrados e tratados na etapa anterior, desconsiderando-se colunas com valores iguais a zero.\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "VmzxoFtyl7zc"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Primeiramente, para a análise, é importante relembrar quais as regiões brasileiras que possuem grande influencia da atividade agricola. Tais informações serão importantes para definir os 0 ou 1 da coluna de Região agrícola."
+      ],
+      "metadata": {
+        "id": "-Gcb7K13KF2n"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "soma_por_regiao = dados.groupby(\"Regiao\")[\"AreaPlantada_h\"].sum()\n",
+        "print(soma_por_regiao)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "collapsed": true,
+        "id": "9SRx8cBBAaMy",
+        "outputId": "b9c463ba-353c-415a-c91a-53767613b62d"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Regiao\n",
+            "Centro-Oeste    2890821\n",
+            "Nordeste        1265990\n",
+            "Norte            526170\n",
+            "Sudeste         2049930\n",
+            "Sul             2445190\n",
+            "Name: AreaPlantada_h, dtype: int64\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "regioes = []\n",
+        "\n",
+        "for regiao in dados['Regiao']:\n",
+        "    if regiao == 'Centro-Oeste'or regiao == 'Sul':\n",
+        "        regioes.append(1)\n",
+        "    else:\n",
+        "        regioes.append(0)\n",
+        "\n",
+        "dados['regiao_agricola'] = regioes"
+      ],
+      "metadata": {
+        "collapsed": true,
+        "id": "f2qqg0GCAInj"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Seguindo os resultados obtidos anteriormente definimos que as regiões Sul e Centro-Oeste serão marcadas com 1, ou seja, consideradas as áreas com maior influencia agrícola.\n",
+        "\n",
+        "Em seguida, utilizando das colunas selecionadas anteriormente, realizamos a regressão."
+      ],
+      "metadata": {
+        "id": "FqLmKxcXLIjG"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "import pandas as pd\n",
+        "from sklearn.linear_model import LinearRegression\n",
+        "from sklearn.model_selection import train_test_split\n",
+        "from sklearn.metrics import mean_squared_error, r2_score\n",
+        "from sklearn.metrics import mean_absolute_error\n",
+        "\n",
+        "X = dados[['AreaColhida_h', 'regiao_agricola', 'VlProducaoPecuaria', 'AreaPlantada_h','VlProducaoPecuaria', 'Area', 'Importacoes_US$', 'Exportacoes_US$','PIB']]\n",
+        "y = dados[ 'VlProducaoAgricola']\n",
+        "\n",
+        "X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)\n",
+        "\n",
+        "modelo = LinearRegression()\n",
+        "modelo.fit(X_train, y_train)\n",
+        "\n",
+        "y_pred = modelo.predict(X_test)\n",
+        "\n",
+        "print(\"R²:\", r2_score(y_test, y_pred))\n",
+        "print(\"Erro médio Absoluto (MAE):\", mean_absolute_error(y_test, y_pred))\n",
+        "#print(\"Erro quadrático médio (MSE):\", mean_squared_error(y_test, y_pred))\n",
+        "\n",
+        "print(\"\\nCoeficientes:\")\n",
+        "for i, var in enumerate(X.columns):\n",
+        "    print(f\"{var}: {modelo.coef_[i]:.6f}\")\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "oG8aGQDIm49j",
+        "outputId": "dcc1d9c4-5af5-43d0-fc1c-5c9f660ead34"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "R²: 0.15669759830220686\n",
+            "Erro médio Absoluto (MAE): 1203.5160607890914\n",
+            "\n",
+            "Coeficientes:\n",
+            "AreaColhida_h: 0.381217\n",
+            "regiao_agricola: 710.951064\n",
+            "VlProducaoPecuaria: 0.115373\n",
+            "AreaPlantada_h: 0.383468\n",
+            "VlProducaoPecuaria: 0.115364\n",
+            "Area: 0.015813\n",
+            "Importacoes_US$: 0.000000\n",
+            "Exportacoes_US$: -0.000000\n",
+            "PIB: -0.000002\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Análise dos Resultados**\n",
+        "\n",
+        "Como antecipado na análise exploratória, o modelo apresentou um desempenho relativamente baixo, com um coeficiente de determinação (R²) de aproximadamente 0,153, o que indica que **15,3% da variação no valor da produção agrícola pode ser explicada pelas variáveis selecionadas.**\n",
+        "\n",
+        "O erro médio absoluto (MAE) também foi uma métrica essencial para esta análise, pois, a partir dele, podemos observar de forma clara e direta o quanto o modelo se desvia, em média, ao prever o valor da produção agrícola, utilizando as mesmas unidades da variável analisada. Diferentemente do erro quadrático médio (MSE), que penaliza mais fortemente os grandes erros ao elevá-los ao quadrado — o que pode exagerar o impacto de certos valores —, o MAE oferece uma avaliação mais equilibrada. Por isso, nesta análise, o MAE foi mais representativo para entender a proximidade das previsões do modelo de regressão com os valores reais.\n",
+        "\n",
+        "Desta maneira, com um MAE de cerca de **1203,51** reais, podemos concluir de que o erro entre as previsões do modelo de regressão e os valores reais foi aceitavel para a situação e modelo propostos.\n",
+        "\n",
+        "Por fim, com relação às variáveis explicativas, a maioria apresentou coeficientes relativamente baixos, sugerindo uma influência limitada sobre a variável dependente. Entre elas, a que mais se destacou foi região agrícola e Area plantada, que obtiveram valores maiores que os demais.Por outro lado, as variáveis com **menor impacto foram as Exportações e Importações e o PIB**, cujo coeficiente foi praticamente nulo, o que indica que essas variáveis não tiveram quase nenhuma contribuição relevante para o modelo.\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "1p0IhZyQ2Ozf"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import seaborn as sns\n",
+        "import matplotlib.pyplot as plt\n",
+        "from scipy.stats import linregress\n",
+        "\n",
+        "x = dados['AreaPlantada_h']\n",
+        "y = dados['VlProducaoAgricola']\n",
+        "\n",
+        "slope, intercept, r_value, p_value, std_err = linregress(x, y)\n",
+        "\n",
+        "plt.figure(figsize=(8,6))\n",
+        "sns.regplot(x=x, y=y, line_kws={'color':'red'})\n",
+        "\n",
+        "plt.xlabel('Área Plantada (ha)')\n",
+        "plt.ylabel('Valor da Produção Agrícola')\n",
+        "plt.title('Relação entre Área Plantada e Valor da Produção Agrícola')\n",
+        "\n",
+        "texto_legenda = f'y = {intercept:.2f} + {slope:.2f}x\\nR² = {r_value**2:.3f}'\n",
+        "plt.text(x.min() + (x.max()-x.min())*0.05, y.min() + (y.max()-y.min())*0.1,\n",
+        "         texto_legenda, fontsize=12, bbox=dict(facecolor='white', alpha=0.7))\n",
+        "\n",
+        "plt.tight_layout()\n",
+        "plt.show()"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 222
+        },
+        "id": "hwierYBh-mnH",
+        "outputId": "318e4336-c793-4c55-f818-09bfae77a121"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "NameError",
+          "evalue": "name 'dados' is not defined",
+          "traceback": [
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+            "\u001b[0;32m<ipython-input-1-4dbad0e33e33>\u001b[0m in \u001b[0;36m<cell line: 0>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      3\u001b[0m \u001b[0;32mfrom\u001b[0m \u001b[0mscipy\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mstats\u001b[0m \u001b[0;32mimport\u001b[0m \u001b[0mlinregress\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      4\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 5\u001b[0;31m \u001b[0mx\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mdados\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;34m'AreaPlantada_h'\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      6\u001b[0m \u001b[0my\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mdados\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;34m'VlProducaoAgricola'\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      7\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;31mNameError\u001b[0m: name 'dados' is not defined"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "###**Conclusão**\n",
+        "Diante da pergunta **\"Quais fatores e aspectos que mais influenciam a produção agrícola?\"**, os resultados obtidos sugerem que fatores como área colhida, área plantada, valor da produção pecuária e região agrícola exercem alguma influência sobre a produção agrícola (mais especificamente do valor da produção) dos dados analisados.\n",
+        "\n",
+        "No entanto, como o modelo apresentou um R² de apenas 15%, isso significa que a maior parte da variação nos dados ainda não é explicada pelas variáveis utilizadas. **Portanto, esses achados devem ser vistos como tendências, e não como conclusões totalmente definitivas.**"
+      ],
+      "metadata": {
+        "id": "QAogG9d2idjR"
+      }
+    }
+  ]
+}
