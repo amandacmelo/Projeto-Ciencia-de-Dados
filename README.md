@@ -41,7 +41,7 @@
   
   8) Cidades e regiões com maior população possuem um PIB per capita mais alto em relação aos demais? Como o crescimento enconômico de uma região se relaciona com sua população?
 
-  9) Municípios com maior proporção de pessoal assalariado apresentam um PIB per capita significativamente diferente dos demais?"
+  9) Municípios com maior proporção de pessoal assalariado apresentam um PIB per capita significativamente diferente dos demais?
 
 ### 📦💰 Dependência financeira dos municípios, relação das transferências e exportações:
 
