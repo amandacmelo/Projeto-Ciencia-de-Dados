@@ -93,7 +93,7 @@ Após a realização da inferência estatística e da aplicação das regras de 
 
 # ⚪ APRENDIZADO SUPERVISIONADO E NÃO-SUPERVISIONADO
 
-Nesta etapa, o grupo aplicou algoritmos de aprendizado supervisionado e não-supervisionado com o objetivo de compreender certas relações e avaliar a possibilidade de prever atributos específicos. Para isso, foram utilizados algoritmos não-supervisionados para a geração de agrupamentos (clusterização) e algoritmos supervisionados para realizar previsões e classificações. O estudo concentrou-se na área socioeconômica, empregando atributos dessa natureza para prever o PIB de um município em determinado ano, assim como o número de nascimentos. Os resultados obtidos foram analisados e discutidos, e podem ser encontrados na pasta: [**Aprendizado Supervisionado e Não Supervisionado**](./Aprendizado%20Supervisionado%20e%20N%C3%A3o%20Supervisionado/)
+Nesta etapa, o grupo aplicou algoritmos de aprendizado supervisionado e não-supervisionado com o objetivo de compreender certas relações e avaliar a possibilidade de prever atributos específicos. Para isso, foram utilizados algoritmos não-supervisionados para a geração de agrupamentos (clusterização) e algoritmos supervisionados para realizar previsões e classificações. O estudo concentrou-se na área socioeconômica, empregando atributos dessa natureza para prever o PIB de um município em determinado ano, assim como o número de nascimentos. Os resultados obtidos foram analisados e discutidos, e podem ser encontrados na pasta:[**Aprendizado Supervisionado e Não Supervisionado**](./Aprendizado%20Supervisionado%20e%20N%C3%A3o%20Supervisionado/)
 
   
 # 🟣 ORGANIZAÇÃO
