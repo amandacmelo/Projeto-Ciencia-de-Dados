@@ -14,6 +14,8 @@
 
 [🟤 REGRESSÃO LINEAR](#-regressão-linear)
 
+[⚪ APRENDIZADO SUPERVISIONADO E NÃO-SUPERVISIONADO](#-aprendizado-supervisionado-e-não-supervisionado)
+
 [🟣 ORGANIZAÇÃO](#-organização)
 
 [🔵 AUTORES](#-autores)
@@ -89,7 +91,7 @@ Após a realização da inferência estatística e da aplicação das regras de 
 [**Regressão Linear**](./Regress%C3%A3o%20Linear/)
 
 
-
+# ⚪ APRENDIZADO SUPERVISIONADO E NÃO-SUPERVISIONADO
     
 # 🟣 ORGANIZAÇÃO
 
@@ -137,7 +139,16 @@ Após a realização da inferência estatística e da aplicação das regras de 
 
 4) Amanda: Responsável pela Regressão da área de Economia e Empregabilidade e da Dependência Financeira dos municípios
 
+### ◽ENTREGA 5:
+  Para a entrega referente à aplicação de algoritmos de aprendizando supervisionado e não-supervisionado, as tarefas foram dividas desse modo:
 
+1) Caio:
+
+2) Letícia:  
+
+3) Melissa: 
+
+4) Amanda: Responsável pela criação de um modelo supervisionado na área da economia
 
 
 # 🔵 AUTORES:
