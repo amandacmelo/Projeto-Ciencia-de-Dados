@@ -44,12 +44,14 @@
   8) Cidades e regiões com maior população possuem um PIB per capita mais alto em relação aos demais? Como o crescimento enconômico de uma região se relaciona com sua população?
 
   9) Municípios com maior proporção de pessoal assalariado apresentam um PIB per capita significativamente diferente dos demais?
+      
+  10) É possível prever o número de nascimentos em municípios a partir de indicadores socioeconômicos?
 
 ### 📦💰 Dependência financeira dos municípios, relação das transferências e exportações:
 
-  10)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
+  11)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
   
-  11) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
+  12) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
 
 
 # 🟢 PREPARAÇÃO DO DADOS: 
@@ -146,9 +148,9 @@ Nesta etapa, o grupo aplicou algoritmos de aprendizado supervisionado e não-sup
 ### ◽ENTREGA 5:
   Para a entrega referente à aplicação de algoritmos de aprendizando supervisionado e não-supervisionado, as tarefas foram dividas desse modo:
 
-1) Caio:
+1) Caio: Responsável pelo desenvolvimento do modelo não supervisionado utilizado na resposta à Pergunta 10, além de auxiliar na construção do modelo supervisionado.
 
-2) Letícia:  
+2) Letícia:  Responsável pelo desenvolvimento do modelo supervisionado utilizado na resposta à Pergunta 10, além de auxiliar na construção do modelo não supervisionado.
 
 3) Melissa: 
 
