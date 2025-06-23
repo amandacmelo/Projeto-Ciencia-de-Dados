@@ -152,7 +152,7 @@ Nesta etapa, o grupo aplicou algoritmos de aprendizado supervisionado e não-sup
 
 2) Letícia:  Responsável pelo desenvolvimento do modelo supervisionado utilizado na resposta à Pergunta 10, além de auxiliar na construção do modelo não supervisionado.
 
-3) Melissa: 
+3) Melissa: Responsável pela criação de um modelo não supervisionado na área da economia
 
 4) Amanda: Responsável pela criação de um modelo supervisionado na área da economia
 
