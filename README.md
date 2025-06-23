@@ -47,11 +47,13 @@
       
   10) É possível prever o número de nascimentos em municípios a partir de indicadores socioeconômicos?
 
+  11) É viável estimar os valores do PIB dos municípios para um ano específico utilizando variáveis socieconômicas?
+
 ### 📦💰 Dependência financeira dos municípios, relação das transferências e exportações:
 
-  11)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
+  12)  Existe relação entre maior PIB municipal, maior receita própria e menor dependência de transferências correntes e de capital, e o índice de autonomia financeira nos municípios?
   
-  12) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
+  13) Existe uma correlação entre as exportações e a produção agrícola e pecuária? Regiões com maior foco nas exportações também são aquelas com maior concentração de atividades do agronegócio?
 
 
 # 🟢 PREPARAÇÃO DO DADOS: 
